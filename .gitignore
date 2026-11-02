@@ -1,0 +1,18 @@
+# Quartus build output
+quartus/db/
+quartus/incremental_db/
+quartus/output_files/
+quartus/*.qws
+quartus/*.qdf
+quartus/greybox_tmp/
+# ModelSim
+work/
+transcript
+*.wlf
+*.vstf
+# Icarus
+build/
+*.vvp
+# Editor backups
+*.bak
+*~
